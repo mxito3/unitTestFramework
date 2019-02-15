@@ -1,0 +1,1 @@
+g++ example1.cpp -lboost_unit_test_framework -o test1
